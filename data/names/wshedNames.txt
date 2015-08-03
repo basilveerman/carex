@@ -1,0 +1,594 @@
+01A01,Headwaters Saint John
+01A02,Allagash (U.S.A.)
+01A03,Upper Saint John
+01A04,Aroostook
+01A05,Tobique
+01A06,Central Saint John
+01A07,Nashwaak
+01A08,Oromocto
+01A09,Salmon (N.B.)
+01A10,Lower Saint John
+01A11,St. Croix
+01B01,Upper Restigouche
+01B02,Kedgwick
+01B03,Central Restigouche
+01B04,Matapédia
+01B05,Upsalquitch
+01B06,Lower Restigouche
+01B07,Chaleur Bay
+01B08,Nepisiguit
+01B09,Acadian Peninsula
+01B10,SW Miramichi -- Upper
+01B11,SW Miramichi -- Central
+01B12,Miramichi
+01B13,Little SW Miramichi
+01B14,NW Miramichi
+01B15,Kouchibouguac
+01B16,Richibucto
+01B17,Kinnear
+01B18,Petitcodiac
+01B19,Point Wolfe
+01B20,Saint John Water Supply
+01C01,Western P.E.I.
+01C02,Central P.E.I.
+01C03,Northeastern P.E.I.
+01C04,Southeastern P.E.I.
+01D01,French Shore
+01D02,Fundy Shore
+01D03,Southern Minas
+01D04,Shubenacadie
+01D05,Northern Minas
+01D06,Chignecto Bay
+01D07,North Shore
+01E01,Clyde
+01E02,Jordan Diversion
+01E03,Mersey
+01E04,LaHave
+01E05,Mahone -- Halifax
+01E06,Ingram Diversion
+01E07,Eastern Shore
+01F01,Western Cape Breton
+01F02,Wreck Cove Diversions
+01F03,Eastern Cape Breton
+01F04,Central Cape Breton
+02A01,Northwestern Lake Superior
+02A02,Nipigon
+02B01,Northeastern Lake Superior
+02C01,North Channel
+02C02,Spanish
+02C03,Onaping Diversion
+02C04,Vermilion (Ont.)
+02C05,Killarney
+02C06,Manitoulin Island
+02D01,Wanapitei
+02D02,Sturgeon (Ont.)
+02D03,French
+02E01,Eastern Georgian Bay
+02E02,Southeastern Georgian Bay
+02F01,SW Georgian Bay
+02F02,Bruce Peninsula
+02F03,Saugeen
+02F04,Penetangore
+02F05,Maitland
+02F06,Ausable
+02G01,St. Clair River
+02G02,Thames
+02G03,Erie -- St. Clair
+02G04,Rondeau
+02G05,Big (Ont.)
+02G06,Grand
+02H01,Welland
+02H02,Niagara
+02H03,Credit and Sixteen Mile
+02H04,Humber and Don
+02H05,Ganaraska
+02H06,Prince Edward
+02H07,Kawartha Lakes
+02H08,Trent
+02H09,Moira
+02H10,Napanee
+02J01,Headwaters Ottawa
+02J02,Blanche
+02J03,Montreal
+02J04,Kipawa
+02K01,Holden Lake
+02K02,Dumoine
+02K03,Petawawa
+02K04,Bonnechere
+02K05,Noire
+02K06,Coulonge
+02K07,Madawaska
+02K08,Mississippi
+02L01,Barrière Diversion
+02L02,Gatineau
+02L03,Rideau
+02L04,South Nation
+02L05,du Lièvre
+02L06,de la Petite Nation
+02L07,Rouge and du Nord
+02M01,Upper St. Lawrence
+02N01,Upper Saint-Maurice
+02N02,Lower Saint-Maurice
+02O01,Île de Montréal
+02O02,L'Assomption
+02O03,du Loup -- Lac Saint-Pierre
+02O04,Richelieu
+02O05,Yamaska
+02O06,Saint-François
+02O07,Nicolet
+02P01,Batiscan
+02P02,Sainte-Anne
+02P03,Jacques-Cartier
+02P04,Montmorency
+02P05,du Gouffre
+02P06,Malbaie
+02P07,Bécancour
+02P08,du Chêne
+02P09,Chaudière
+02P10,Etchemin
+02P11,du Loup
+02Q01,Rimouski
+02Q02,Matane
+02Q03,Madeleine
+02R01,Péribonka
+02R02,Manouane Diversion
+02R03,Manouane (II) Diversion
+02R04,Mistassini
+02R05,Ashuapmushuan
+02R06,Lac Saint-Jean
+02R07,Saguenay
+02S01,Portneuf
+02S02,Sault aux Cochons Diversion
+02S03,Betsiamites
+02S04,de Papinachois
+02T01,aux Outardes
+02T02,Manicouagan
+02U01,Pentecôte
+02U02,Sainte-Marguerite
+02U03,Moisie
+02U04,au Bouleau
+02V01,Manitou
+02V02,Magpie
+02V03,Romaine
+02W01,Aguanish
+02W02,Natashquan
+02W03,Olomane
+02W04,Anticosti Island
+02W05,Îles de la Madeleine
+02X01,Little Mecatina
+02X02,du Gros Mécatina
+02X03,St. Augustin
+02X04,Coxipi
+02X05,St. Paul
+02X06,Strait of Belle Isle -- North Shore
+02Y01,Port au Port Bay
+02Y02,Humber
+02Y03,Bonne Bay
+02Y04,Portland Cove
+02Y05,St. John Bay
+02Y06,Strait of Belle Isle -- South Shore
+02Y07,Hare Bay
+02Y08,Canada Bay
+02Y09,Western White Bay
+02Y10,S. and E. White Bay
+02Y11,Deer Lake Diversion
+02Y12,Western Notre Dame Bay
+02Y13,Southwestern Notre Dame Bay
+02Y14,Red Indian Lake
+02Y15,Exploits
+02Y16,Gander River
+02Y17,Northwestern Bonavista Bay
+02Y18,S. and E. Bonavista Bay
+02Z01,Trinity Bay
+02Z02,Conception Bay
+02Z03,Avalon Eastern Coast
+02Z04,St. Mary's Bay -- East
+02Z05,Placentia -- St. Mary's
+02Z06,NW Placentia Bay
+02Z07,SW Placentia Bay
+02Z08,Fortune Bay
+02Z09,Hermitage Bay
+02Z10,Grey
+02Z11,White Bear Bay
+02Z12,La Poile Bay
+02Z13,St. George's Bay
+02Z14,Bay d'Espoir Diversions
+03A01,Novide
+03A02,Mégiscane Diversion
+03A03,Nottaway
+03B01,Broadback
+03B02,Rupert
+03B03,Pontax
+03B04,Jolicoeur
+03C01,Boyd - Sakami Diversion
+03C02,Lower Eastmain
+03C03,Lower Opinaca
+03D01,du Vieux Comptoir
+03D02,au Castor
+03D03,La Grande
+03D04,de la Frégate Diversion
+03D05,Sakami
+03D06,Kanaaupscow
+03E01,Roggan
+03E02,Grande rivière de la Baleine
+03E03,Manitounuk
+03F01,Petite rivière de la Baleine
+03F02,à l'Eau Claire
+03F03,Nastapoka
+03G01,Qikirtaluup Kuunga
+03G02,Innuksuac
+03G03,Kogaluc
+03G04,de Puvirnituq
+03G05,Kovik
+03H01,Southern Hudson Strait
+03H02,Arnaud
+03J01,Leaf Bay
+03J02,aux Feuilles
+03K01,aux Mélèzes
+03K02,Koksoak
+03L01,Laforge Diversion
+03L02,Swampy Bay
+03L03,Caniapiscau
+03M01,False
+03M02,à la Baleine
+03M03,Qurlutuq
+03M04,George
+03M05,Koroc
+03N01,Labrador -- Northern
+03N02,Saglek and Hebron
+03N03,Okak Bay
+03N04,Tikkoatokuk Bay
+03N05,Kogaluk and Notakwanon
+03N06,Adlatok
+03N07,Kanairiktok
+03N08,Big (N.L.)
+03O01,Ashuanipi
+03O02,Ossokmanuan Reservoir
+03O03,Smallwood Reservoir -- Julian Diversion
+03O04,Smallwood Reservoir
+03O05,Smallwood Reservoir -- Kanairiktok Diversion
+03O06,Smallwood Reservoir -- Naskaupi Diversion
+03O07,Upper Churchill (N.L.)
+03O08,Lower Churchill (N.L.)
+03P01,Naskaupi
+03P02,Grand Lake
+03P03,Goose Bay
+03P04,Lake Melville
+03P05,Hamilton Inlet
+03Q01,Eagle and Paradise
+03Q02,Alexis
+04A01,Hayes (Man.)
+04A02,Fox
+04A03,Gods
+04B01,Black Duck
+04C01,Severn
+04D01,Shagamu
+04D02,Winisk
+04E01,Sutton
+04E02,Ekwan
+04F01,Attawapiskat
+04G01,Root River Diversion
+04G02,Ogoki Diversion
+04G03,Upper Albany
+04G04,Ogoki
+04H01,Kapiskau
+04H02,Lower Albany
+04H03,Kinosheo
+04J01,Long Lake Diversion
+04J02,Kenogami
+04K01,Moose (Ont.)
+04L01,Missinaibi
+04L02,Opasatika Diversion
+04L03,Mattagami
+04M01,Abitibi
+04N01,Partridge
+04N02,Harricanaw
+04N03,Missisicabi
+05A01,Oldman
+05A02,St. Mary
+05A03,Little Bow
+05A04,Upper South Saskatchewan
+05A05,Pakowki Lake
+05A06,Many Island Lake
+05B01,Upper Bow
+05B02,Central Bow
+05B03,Highwood
+05B04,Lower Bow
+05C01,Upper Red Deer (Alta.)
+05C02,Central Red Deer (Alta.)
+05C03,Berry
+05C04,Lower Red Deer (Alta.)
+05C05,Sullivan Lake
+05C06,San Francisco Lake
+05D01,Upper North Saskatchewan
+05D02,Brazeau
+05E01,Central North Saskatchewan
+05E02,Sturgeon (Alta.)
+05E03,Vermilion (Alta.)
+05F01,Upper Battle
+05F02,Central Battle
+05F03,Ribstone
+05F04,Lower Battle
+05G01,Manitou Lake
+05G02,Kiyiu Lake
+05G03,Eagle
+05G04,Lower North Saskatchewan
+05G05,Sturgeon (Sask.)
+05H01,Lake Diefenbaker
+05H02,Swift Current Diversion
+05H03,Swift Current
+05H04,Lower South Saskatchewan
+05H05,Crane Lake
+05H06,Happyland
+05H07,Ess Lake
+05H08,Gander Lake
+05H09,Bad Lake
+05H10,Rice Lake
+05J01,Old Wives Lake
+05J02,Moose Jaw
+05J03,Thunder
+05J04,Upper Qu'Appelle
+05J05,Wascana
+05J06,Last Mountain
+05J07,Lower Qu'Appelle
+05K01,Lenore Lake
+05K02,Upper Carrot
+05K03,Saskatchewan
+05K04,Saskatchewan -- Lower Carrot
+05K05,Torch and Mossy
+05K06,Sturgeon-weir
+05K07,Lower Saskatchewan
+05K08,Pasquia Diversion
+05K09,Moose (Man.)
+05L01,Lake Winnipegosis
+05L02,Red Deer (Sask. -- Man.)
+05L03,Shoal
+05L04,Mossy
+05L05,Lake Manitoba
+05L06,Dauphin
+05M01,Quill Lakes
+05M02,Whitesand
+05M03,Upper Assiniboine
+05M04,Central Assiniboine
+05M05,Little Saskatchewan
+05M06,Lower Assiniboine
+05N01,Upper Souris
+05N02,Lower Souris
+05O01,Upper Red
+05O02,Pembina (Man.)
+05O03,Roseau
+05O04,Morris
+05O05,Rat
+05O06,La Salle
+05O07,Seine
+05O08,Lower Red
+05P01,Rainy
+05P02,Lake of the Woods
+05P03,Winnipeg
+05P04,Whiteshell
+05P05,Whitemouth
+05Q01,English
+05R01,Manigotagan
+05R02,Bloodvein
+05R03,Berens
+05R04,Poplar
+05R05,Mukutawa
+05S01,Brokenhead
+05S02,Willow
+05S03,Icelandic
+05S04,Fisher
+05S05,Mantagao
+05S06,Warpath
+05S07,North and South Twin
+05S08,William
+05T01,Grass
+05T02,Burntwood
+05U01,Upper Nelson
+05U02,Lower Nelson
+06A01,Beaver
+06B01,Upper Churchill (Sask.)
+06C01,Central Churchill (Sask.) -- Upper
+06D01,Reindeer
+06E01,Central Churchill (Sask.-Man.) -- Lower
+06E02,Churchill Diversion -- Southern Indian Lake
+06F01,Lower Churchill (Man.)
+06F02,Owl
+06G01,North and South Knife
+06G02,Seal
+06G03,Caribou
+06H01,Geillini
+06H02,Thlewiaza
+06H03,Tha-anne
+06J01,Thelon
+06K01,Dubawnt
+06L01,Kazan
+06M01,Baker Lake
+06M02,Quoich
+06M03,Chesterfield Inlet
+06N01,Maguse
+06N02,Ferguson
+06N03,Wilson
+06O01,Lorillard
+06O02,Wager Bay
+06P01,Hudson Bay Islands
+06Q01,Northern Southampton Island
+06R01,Repulse Bay
+06R02,Barrow
+06R03,Kingora
+06S01,Gifford
+06S02,MacDonald
+06S03,Prince Charles Island
+06S04,Koukdjuak
+06S05,Aukpar
+06T01,Northern Hudson Strait
+06T02,Western Hudson Strait
+07A01,Upper Athabasca
+07A02,McLeod
+07B01,Central Athabasca -- Upper
+07B02,Pembina (Alta.)
+07B03,Lesser Slave
+07C01,Central Athabasca -- Lower
+07C02,La Biche
+07C03,Clearwater
+07D01,Lower Athabasca
+07E01,Williston Lake
+07F01,Upper Peace
+07G01,Smoky
+07H01,Central Peace -- Upper
+07J01,Central Peace -- Lower
+07J02,Wabasca
+07J03,Mikkwa
+07K01,Lower Peace
+07K02,Lake Claire
+07L01,Fond du Lac
+07L02,Eastern Lake Athabasca
+07M01,Lake Athabasca
+07N01,Slave
+07O01,Hay
+07P01,Southern Great Slave Lake
+07Q01,Great Slave Lake -- Christie Bay -- South Shore
+07Q02,Tazin
+07Q03,Wellington Lake Diversion
+07R01,Lockhart
+07S01,Great Slave Lake -- Christie Bay -- North Shore
+07S02,Great Slave Lake -- North Arm -- East Shore
+07T01,Marian
+07U01,Great Slave Lake -- North Arm -- West Shore
+07U02,Western Great Slave Lake -- Outlet
+08A01,Yakutat Bay
+08A02,Alsek
+08A03,Lituya Bay (U.S.A.)
+08B01,Glacier Bay
+08B02,Lynn Canal
+08B03,Taku
+08B04,Stephens Passage
+08C01,Coastal Waters -- Stikine
+08D01,Clarence Strait
+08D02,Portland Canal
+08D03,Nass
+08E01,Coastal Waters -- Skeena
+08E02,Skeena
+08F01,Hecate Strait
+08F02,Queen Charlotte Sound
+08F03,Rivers Inlet
+08G01,Eastern Queen Charlotte Strait
+08G02,Strait of Georgia -- Eastern Shore
+08H01,Southern Vancouver Island
+08H02,South Central Vancouver Island
+08H03,West Central Vancouver Island
+08H04,Campbell - Heber Diversion
+08H05,NW Vancouver Island
+08H06,NE Vancouver Island
+08H07,East Central Vancouver Island
+08J01,Nechako
+08J02,Kemano Diversion
+08J03,Stuart
+08K01,Headwaters Fraser
+08K02,McGregor
+08K03,Upper Fraser
+08K04,West Road
+08K05,Quesnel
+08L01,North Thompson
+08L02,South Thompson
+08L03,Vernon Diversion
+08L04,Thompson
+08M01,Lower Fraser
+08M02,Chilcotin
+08M03,Harrison
+08M04,Coquitlam - Buntzen Diversion
+08M05,Boundary Bay
+08N01,Upper Columbia
+08N02,Central Columbia
+08N03,Upper Kootenay
+08N04,Central Kootenay
+08N05,Lower Kootenay
+08N06,Slocan
+08N07,Clark Fork (U.S.A.)
+08N08,Upper Flathead
+08N09,Kettle
+08N10,Okanagan
+08N11,Similkameen
+08O01,Graham Island
+08O02,Moresby Island
+08P01,Upper Skagit
+09A01,Headwaters Yukon
+09A02,Teslin
+09A03,Big Salmon
+09B01,Pelly
+09C01,Upper Yukon
+09C02,White
+09D01,Stewart
+09E01,Central Yukon
+09E02,Klondike
+09E03,Fortymile
+09F01,Porcupine
+09H01,Upper Tanana
+09M01,Chitina
+10A01,Upper Liard
+10B01,Central Liard
+10C01,Fort Nelson
+10D01,Liard -- Petitot
+10E01,Lower Liard
+10E02,South Nahanni
+10F01,Mackenzie -- Mills Lake
+10G01,Mackenzie -- Camsell Bend
+10H01,Mackenzie -- Blackwater Lake
+10J01,Great Bear
+10K01,Mackenzie -- The Ramparts
+10L01,Lower Mackenzie
+10L02,Hare Indian
+10L03,Arctic Red
+10L04,Eastern Mackenzie Delta
+10M01,Western Mackenzie Delta
+10M02,Peel
+10M03,Southwestern Beaufort Sea
+10N01,Southeastern Beaufort Sea
+10N02,Anderson
+10O01,Amundsen Gulf
+10P01,Coppermine
+10Q01,Coronation Gulf
+10Q02,Queen Maud Gulf
+10R01,Back
+10R02,Back -- Hayes (Nunavut)
+10S01,Rasmussen Basin -- Larsen Sound
+10S02,Gulf of Boothia
+10T01,Western Banks Island
+10T02,Eastern Banks Island
+10T03,Northwestern Victoria Island
+10T04,Hadley Bay
+10T05,Eastern Victoria Island
+10T06,Southern Victoria Island
+10T07,Prince Albert Sound
+10T08,Minto Inlet
+10T09,King William Island
+10T10,Western Prince of Wales Island
+10T11,Eastern Prince of Wales Island
+10T12,Western Somerset Island
+10T13,Eastern Somerset Island
+10U01,Western Brodeur Peninsula
+10U02,Admiralty Inlet
+10U03,Eclipse Sound
+10U04,Southwestern Baffin Bay
+10U05,Northwestern Davis Strait
+10U06,Northern Cumberland Sound
+10U07,Southern Cumberland Sound
+10U08,Frobisher Bay
+10V01,Prince Patrick Island
+10V02,Melville Island
+10V03,Bathurst and Cornwallis Islands
+10V04,Western Devon Island
+10V05,Eastern Devon Island
+10V06,Sverdrup Islands
+10V07,Nansen and Eureka Sounds
+10V08,Greely Fiord
+10V09,Arctic Ocean and Lincoln Sea
+10V10,Northeastern Ellesmere Island
+10V11,Southeastern Ellesmere Island
+10V12,Southern Ellesmere Island
+11A01,Upper Milk
+11A02,Central Milk
+11A03,Whitewater
+11A04,Frenchman
+11A05,Cypress Lake Diversions
+11A06,Lower Milk and Poplar
+11A07,Big Muddy

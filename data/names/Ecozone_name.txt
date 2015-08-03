@@ -1,0 +1,25 @@
+0,Northern Arctic
+1,Arctic Cordillera
+2,Arctic Cordillera
+3,Arctic Cordillera
+4,Arctic Cordillera
+5,Southern Arctic
+6,Taiga Cordillera
+7,Taiga Plain
+8,Taiga Shield
+9,Boreal Cordillera
+10,Boreal Plain
+11,Arctic Cordillera
+12,Pacific Maritime
+13,Pacific Maritime
+14,Taiga Shield
+15,Boreal Shield
+16,Pacific Maritime
+17,Hudson Plain
+18,Montane Cordillera
+19,Pacific Maritime
+20,Prairie
+21,Boreal Plain
+22,Atlantic Maritime
+23,Atlantic Maritime
+24,MixedWood Plain

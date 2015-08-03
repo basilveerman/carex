@@ -1,0 +1,23 @@
+Buta_kg,0.54
+Acet_kg,0.017
+Ars_kg,2600
+BAA_kg,54
+BAP_kg,6400
+BBF_kg,130
+Benz_kg,1
+BKF_kg,NO TF
+Cadm_kg,28
+Chlor_kg,1.6
+Chrom_kg,130
+Chrys_kg,5.1
+Dichlor_kg,0.2
+Ethylb_kg,NO TF
+Form_kg,0.02
+Hexcr_kg,NO TF
+Indeno_kg,280
+Lead_kg,28
+Nick_kg,2.8
+PCB_kg,NO TF
+Perc_kg,0.92
+Pm25_kg,NO TF
+Tcdd_kg,1.2e9

@@ -1,0 +1,159 @@
+0,Campbellton
+1,Edmundston
+2,Fredericton
+3,Saint John
+4,Miramichi
+5,Moncton
+6,Bathurst
+7,Corner Brook
+8,Mount Pearl
+9,St. John's
+10,Carbonear
+11,Sydney
+12,Dartmouth
+13,Halifax
+14,Summerside
+15,Charlottetown
+16,Whitehorse
+17,Yellowknife
+18,Gatineau
+19,Hull
+20,Laval
+21,Montreal
+22,Quebec
+23,Sherbrooke
+24,Trois-Rivieres
+25,Beauport
+26,Charlesbourg
+27,Chicoutimi
+28,Jonquiere
+29,Longueuil
+30,Calgary
+31,Camrose
+32,Edmonton
+33,Fort Saskatchewan
+34,Grande Prairie
+35,Leduc
+36,Lethbridge
+37,Lloydminster
+38,Medicine Hat
+39,Red Deer
+40,St. Albert
+41,Spruce Grove
+42,Wetaskiwin
+43,Airdrie
+44,Drumheller
+45,Cold Lake
+46,Flin Flon
+47,Portage la Prairie
+48,Thompson
+49,Winnipeg
+50,Brandon
+51,Estevan
+52,Lloydminster
+53,Melfort
+54,Melville
+55,Moose Jaw
+56,North Battleford
+57,Prince Albert
+58,Regina
+59,Saskatoon
+60,Swift Current
+61,Weyburn
+62,Yorkton
+63,Belleville
+64,Brant
+65,Brantford
+66,Brockville
+67,Cambridge
+68,Cornwall
+69,Dryden
+70,Elliot Lake
+71,Gloucester
+72,Kanata
+73,Kenora
+74,Kingston
+75,Kitchener
+76,London
+77,Nanticoke
+78,Nepean
+79,Niagara Falls
+80,North Bay
+81,Ottawa
+82,Owen Sound
+83,Pembroke
+84,Peterborough
+85,Port Colborne
+86,Quinte West
+87,St. Catharines
+88,St. Thomas
+89,Sarnia
+90,Sault Ste. Marie
+91,Stratford
+92,Sudbury
+93,Thorold
+94,Thunder Bay
+95,Timmins
+96,Vanier
+97,Waterloo
+98,Welland
+99,Windsor
+100,Woodstock
+101,Brampton
+102,Burlington
+103,Guelph
+104,Hamilton
+105,Mississauga
+106,Orillia
+107,Oshawa
+108,Stoney Creek
+109,Toronto
+110,Vaughan
+111,Barrie
+112,Chatham
+113,Armstrong
+114,Burnaby
+115,Castlegar
+116,Chilliwack
+117,Colwood
+118,Coquitlam
+119,Courtenay
+120,Cranbrook
+121,Dawson Creek
+122,Duncan
+123,Enderby
+124,Fernie
+125,Fort St. John
+126,Grand Forks
+127,Greenwood
+128,Kamloops
+129,Kelowna
+130,Kimberley
+131,Langley
+132,Merritt
+133,Nanaimo
+134,Nelson
+135,New Westminster
+136,North Vancouver
+137,Parksville
+138,Penticton
+139,Port Alberni
+140,Port Coquitlam
+141,Port Moody
+142,Prince George
+143,Prince Rupert
+144,Quesnel
+145,Revelstoke
+146,Richmond
+147,Rossland
+148,Surrey
+149,Terrace
+150,Trail
+151,Vancouver
+152,Vernon
+153,Victoria
+154,White Rock
+155,Williams Lake
+156,Abbotsford
+157,Mission
+158,Powell River

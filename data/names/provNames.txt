@@ -1,0 +1,13 @@
+AB,Alberta
+BC,British Columbia
+MB,Manitoba
+NB,New Brunswick
+NS,Nova Scotia
+NWT,Northwest Territories
+NFLD,Newfoundland
+NUN,Nunavut
+ON,Ontario
+PEI,Prince Edward Island
+PQ,Quebec
+SK,Saskatchewan
+YK,Yukon

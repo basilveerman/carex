@@ -1,0 +1,126 @@
+0,Eastern Regional Integrated Health Authority
+1,Central Regional Integrated Health Authority
+2,Western Regional Integrated Health Authority
+3,Labrador-Grenfell Regional Integrated Health Authority
+4,Kings County
+5,Queens County
+6,Prince County
+7,Zone 1
+8,Zone 2
+9,Zone 3
+10,Zone 4
+11,Zone 5
+12,Zone 6
+13,Region 1
+14,Region 2
+15,Region 3
+16,Region 4
+17,Region 5
+18,Region 6
+19,Region 7
+20,Bas-Saint-Laurent
+21,Saguenay - Lac-Saint-Jean
+22,Capitale-Nationale
+23,Mauricie et Centre-du-Quebec
+25,Estrie
+26,Montreal
+27,Outaouais
+28,Abitibi-Temiscamingue
+29,Cote-Nord
+30,Nord-du-Quebec
+31,Gaspesie - Iles-de-la-Madeleine
+32,Chaudiere-Appalaches
+34,Laval
+35,Lanaudiere
+36,Laurentides
+37,Monteregie
+39,Nunavik
+40,Terres-Cries-de-la-Baie-James
+41,The District of Algoma Health Unit
+42,Brant County Health Unit
+43,Durham Regional Health Unit
+44,Elgin-St. Thomas Health Unit
+45,Grey Bruce Health Unit
+46,Haldimand-Norfolk Health Unit
+47,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+48,Halton Regional Health Unit
+49,City of Hamilton Health Unit
+50,Hastings and Prince Edward Counties Health Unit
+51,Huron County Health Unit
+52,Chatham-Kent Health Unit
+53,"Kingston, Frontenac and Lennox and Addington Health Unit"
+54,Lambton Health Unit
+55,"Leeds, Grenville and Lanark District Health Unit"
+56,Middlesex-London Health Unit
+57,Niagara Regional Area Health Unit
+58,North Bay Parry Sound District Health Unit
+59,Northwestern Health Unit
+60,City of Ottawa Health Unit
+61,Oxford County Health Unit
+62,Peel Regional Health Unit
+63,Perth District Health Unit
+64,Peterborough County-City Health Unit
+65,Porcupine Health Unit
+66,Renfrew County and District Health Unit
+67,The Eastern Ontario Health Unit
+68,Simcoe Muskoka District Health Unit
+69,Sudbury and District Health Unit
+70,Thunder Bay District Health Unit
+71,Timiskaming Health Unit
+72,Waterloo Health Unit
+73,Wellington-Dufferin-Guelph Health Unit
+74,Windsor-Essex County Health Unit
+75,York Regional Health Unit
+76,City of Toronto Health Unit
+77,Winnipeg
+78,Brandon
+79,North Eastman
+80,South Eastman
+81,Interlake
+82,Central
+84,Assiniboine
+85,Parkland
+86,Norman
+87,Burntwood
+89,Churchill
+90,Sun Country RHA
+91,Five Hills RHA
+92,Cypress RHA
+93,Regina Qu'Appelle RHA
+94,Sunrise RHA
+95,Saskatoon RHA
+96,Heartland RHA
+97,Kelsey Trail RHA
+98,Prince Albert Parkland RHA
+99,Prairie North RHA
+100,Mamawetan Churchill River RHA
+101,Keewatin Yatthe RHA
+102,Athabasca Health Authority
+103,Chinook Regional Health Authority
+104,Palliser Health Region
+105,Calgary Health Region
+106,David Thompson Regional Health Authority
+107,East Central Health
+108,Capital Health
+109,Aspen Regional Health Authority
+110,Peace Country Health
+111,Northern Lights Health Region
+112,East Kootenay
+113,Kootenay/Boundary
+114,Okanagan
+115,Thompson/Cariboo
+116,Fraser East
+117,Fraser North
+118,Fraser South
+119,Richmond
+120,Vancouver
+122,North Shore/Coast Garibaldi
+124,South Vancouver Island
+125,Central Vancouver Island
+126,North Vancouver Island
+127,Northwest
+128,Northern Interior
+129,Northeast
+130,Yukon Territory
+131,Northwest Territories
+132,Nunavut

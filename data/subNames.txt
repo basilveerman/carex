@@ -1,0 +1,23 @@
+Buta_kg,Butadiene
+Benz_kg,Benzene
+Form_kg,Formaldehyde
+Perc_kg,Tetrachloroethylene
+Chlor_kg,Chloroform
+Dichlor_kg,Dichloromethane
+Acet_kg,Acetaldehyde
+PCB_kg,Polychlorinated Biphenyls
+Ethylb_kg,Ethylbenzene
+Tcdd_kg,TCDD
+Ars_kg,Arsenic
+Cadm_kg,Cadmium
+Chrom_kg,Chromium
+Hexcr_kg,Hexachromium
+Lead_kg,Lead
+Nick_kg,Nickel
+BAA_kg,Benzo[a]anthracene
+BBF_kg,Benzo[b]fluoranthene
+BKF_kg,Benzo[k]fluoranthene
+BAP_kg,Benzo[a]pyrene
+Indeno_kg,"Indeno[1,2,3-c,d]pyrene"
+Chrys_kg,Chrysene
+Pm25_kg,Particulate Matter

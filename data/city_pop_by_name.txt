@@ -1,0 +1,160 @@
+NAME,Population
+Campbellton,27492
+Edmundston,25164
+Fredericton,103881
+Saint John,112386
+Miramichi,26012
+Moncton,145006
+Bathurst,32365
+Corner Brook,28934
+Mount Pearl,197520
+St. John's,192003
+Carbonear,34134
+Sydney,94622
+Dartmouth,363223
+Halifax,363484
+Summerside,32148
+Charlottetown,70082
+Whitehorse,23997
+Yellowknife,19444
+Gatineau,985962
+Hull,1094644
+Laval,3221218
+Montreal,2992696
+Quebec,742170
+Sherbrooke,208433
+Trois-Rivieres,179878
+Beauport,740662
+Charlesbourg,744072
+Chicoutimi,154619
+Jonquiere,140574
+Longueuil,2906347
+Calgary,1140782
+Camrose,23071
+Edmonton,998280
+Fort Saskatchewan,369252
+Grande Prairie,71727
+Leduc,259938
+Lethbridge,102630
+Lloydminster,34300
+Medicine Hat,70049
+Red Deer,135017
+St. Albert,930234
+Spruce Grove,397973
+Wetaskiwin,28069
+Airdrie,461982
+Drumheller,9972
+Cold Lake,18789
+Flin Flon,8035
+Portage la Prairie,20520
+Thompson,12829
+Winnipeg,711090
+Brandon,54015
+Estevan,13705
+Lloydminster,34238
+Melfort,8220
+Melville,6243
+Moose Jaw,36304
+North Battleford,20167
+Prince Albert,43278
+Regina,203887
+Saskatoon,247420
+Swift Current,18586
+Weyburn,12128
+Yorkton,19665
+Belleville,115723
+Brant,334598
+Brantford,223473
+Brockville,47431
+Cambridge,685894
+Cornwall,69296
+Dryden,11627
+Elliot Lake,12154
+Gloucester,1023317
+Kanata,821122
+Kenora,18265
+Kingston,150330
+Kitchener,619248
+London,439857
+Nanticoke,69090
+Nepean,1052271
+Niagara Falls,337118
+North Bay,65949
+Ottawa,1086121
+Owen Sound,46391
+Pembroke,46876
+Peterborough,133075
+Port Colborne,154205
+Quinte West,123669
+St. Catharines,352000
+St. Thomas,341943
+Sarnia,98296
+Sault Ste. Marie,81332
+Stratford,79707
+Sudbury,152326
+Thorold,362034
+Thunder Bay,118227
+Timmins,42588
+Vanier,1084459
+Waterloo,595557
+Welland,356547
+Windsor,305110
+Woodstock,88487
+Brampton,2305975
+Burlington,1035770
+Guelph,530684
+Hamilton,812653
+Mississauga,2988477
+Orillia,72296
+Oshawa,568497
+Stoney Creek,815196
+Toronto,3457881
+Vaughan,3734596
+Barrie,230954
+Chatham,75423
+Armstrong,70518
+Burnaby,2013083
+Castlegar,20934
+Chilliwack,130544
+Colwood,332908
+Coquitlam,1732741
+Courtenay,61119
+Cranbrook,30974
+Dawson Creek,16688
+Duncan,86737
+Enderby,38887
+Fernie,7023
+Fort St. John,28127
+Grand Forks,9713
+Greenwood,9067
+Kamloops,91281
+Kelowna,175054
+Kimberley,23541
+Langley,1146902
+Merritt,10435
+Nanaimo,117358
+Nelson,21465
+New Westminster,2217889
+North Vancouver,1688645
+Parksville,69820
+Penticton,55165
+Port Alberni,30897
+Port Coquitlam,1704533
+Port Moody,1897803
+Prince George,82088
+Prince Rupert,13384
+Quesnel,22047
+Revelstoke,7564
+Richmond,1726061
+Rossland,22486
+Surrey,1681230
+Terrace,18320
+Trail,26592
+Vancouver,1771137
+Vernon,76196
+Victoria,321940
+White Rock,905053
+Williams Lake,19519
+Abbotsford,276146
+Mission,322785
+Powell River,19094

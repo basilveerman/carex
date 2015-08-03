@@ -1,0 +1,681 @@
+0,Aamjiwnaang
+1,Abegweit
+2,Abénakis de Wôlinak
+3,Acadia
+4,Acho Dene Koe
+5,Adams Lake
+6,Ahousaht
+7,Ahtahkakoop
+8,Aitchelitz
+9,Aklavik
+10,Aklavik
+11,Akulivik
+12,Albany
+13,Alderville First Nation
+14,Alexander
+15,Alexandria
+16,Alexis Creek
+17,Alexis Nakota Sioux Nation
+18,Algonquins of Barriere Lake
+19,Algonquins of Pikwakanagan
+20,Animbiigoo Zaagi'igan Anishinaabek
+21,Anishinabe of Wauzhushk Onigum
+22,Anishnaabeg of Naongashiing
+23,Annapolis Valley
+24,Arctic Bay
+25,Aroland
+26,Arviat
+27,Ashcroft
+28,Athabasca Chipewyan First Nation
+29,Atikameksheng Anishnawbek
+30,Atikamekw d'Opitciwan
+31,Attawapiskat
+32,Aundeck-Omni-Kaning
+33,Aupaluk
+34,Baker Lake
+35,Bande des Innus de Pessamit
+36,Barren Lands
+37,Batchewana First Nation
+38,Bay of Quinte Mohawk
+39,Bear River
+40,Beardy's and Okemasis
+41,Bearfoot Onondaga
+42,Bearskin Lake
+43,Bearspaw
+44,Beausoleil
+45,Beaver First Nation
+46,Beaver Lake Cree Nation
+47,Beecher Bay
+48,"Behdzi Ahda"" First Nation"
+49,Berens River
+50,Big Grassy
+51,Big Island Lake Cree Nation
+52,Big River
+53,Bigstone Cree Nation
+54,Biinjitiwaabik Zaaging Anishinaabek
+55,Bingwi Neyaashi Anishinaabek
+56,Birch Narrows First Nation
+57,Birdtail Sioux
+58,Black Lake
+59,Blood
+60,Bloodvein
+61,Blueberry River First Nations
+62,Bonaparte
+63,Boothroyd
+64,Boston Bar First Nation
+65,Bridge River
+66,Brokenhead Ojibway Nation
+67,Brunswick House
+68,Buctouche
+69,Buffalo Point First Nation
+70,Buffalo River Dene Nation
+71,Bunibonibee Cree Nation
+72,Burns Lake
+73,Caldwell
+74,Cambridge Bay
+75,Campbell River
+76,Canim Lake
+77,Canoe Creek
+78,Canoe Lake Cree First Nation
+79,Canupawakpa Dakota First Nation
+80,Cape Dorset
+81,Cape Mudge
+82,Carcross/Tagish First Nations
+83,Carry The Kettle
+84,Cat Lake
+85,Cayoose Creek
+86,Champagne
+87,Champagne and Aishihik First Nations
+88,Chapel Island First Nation
+89,Chapleau Cree First Nation
+90,Chapleau Ojibway
+91,Chawathil
+92,Cheam
+93,Chehalis
+94,Chemainus First Nation
+95,Chemawawin Cree Nation
+96,Cheslatta Carrier Nation
+97,Chesterfield Inlet
+98,Chiniki
+99,Chipewyan Prairie First Nation
+100,Chippewas of Georgina Island
+101,Chippewas of Kettle and Stony Point
+102,Chippewas of Nawash First Nation
+103,Chippewas of Rama First Nation
+104,Chippewas of the Thames First Nation
+105,Clearwater River Dene
+106,Clyde River
+107,Cold Lake First Nations
+108,Coldwater
+109,Communauté anicinape de Kitcisakik
+110,Comox
+111,Conseil de la Première Nation Abitibiwinni
+112,Conseil des Atikamekw de Wemotaci
+113,Constance Lake
+114,Cook's Ferry
+115,Coral Harbour
+116,Cote First Nation 366
+117,Couchiching First Nation
+118,Cowessess
+119,Cowichan
+120,Cree Nation of Chisasibi
+121,Cree Nation of Mistissini
+122,Cree Nation of Nemaska
+123,Cree Nation of Wemindji
+124,Cross Lake First Nation
+125,Cumberland House Cree Nation
+126,Curve Lake
+127,Da'naxda'xw First Nation
+128,Dakota Plains
+129,Dakota Tipi
+130,Dauphin River
+131,Day Star
+132,Dease River
+133,Dechi Laot'i First Nations
+134,Deer Lake
+135,Deh Gah Gotie Dene Council
+136,Delaware
+137,Deline First Nation
+138,Dene Tha'
+139,Deninu K'ue First Nation
+140,Ditidaht
+141,Dog Rib Rae
+142,Doig River
+143,Dokis
+144,Douglas
+145,Driftpile First Nation
+146,Duncan's First Nation
+147,Eabametoong First Nation
+148,Eagle Lake
+149,Eagle Village First Nation - Kipawa
+150,Eastmain
+151,Ebb and Flow
+152,Eel Ground
+153,Eel River Bar First Nation
+154,Ehattesaht
+155,Elsipogtog First Nation
+156,English River First Nation
+157,Enoch Cree Nation #440
+158,Ermineskin Tribe
+159,Esgenoopetitj First Nation
+160,Eskasoni
+161,Esketemc
+162,Esquimalt
+163,First Nation of Nacho Nyak Dun
+164,Fisher River
+165,Fishing Lake First Nation
+166,Flying Dust First Nation
+167,Flying Post
+168,Fond du Lac
+169,Fort Alexander
+170,Fort Folly
+171,Fort Good Hope
+172,Fort McKay First Nation
+173,Fort McMurray #468 First Nation
+174,Fort Nelson First Nation
+175,Fort Severn
+176,Fort William
+177,Fox Lake
+178,Frog Lake
+179,Gamblers
+180,Gameti First Nation
+181,Garden Hill First Nations
+182,Garden River First Nation
+183,George Gordon First Nation
+184,Ginoogaming First Nation
+185,Gitanmaax
+186,Gitanyow
+187,Gitsegukla
+188,Gitwangak
+189,Gitxaala Nation
+190,Gjoa Haven
+191,Glen Vowell
+192,Glooscap First Nation
+193,God's Lake First Nation
+194,Grand Rapids First Nation
+195,Grassy Narrows First Nation
+196,Grise Fiord
+197,Gull Bay
+198,Gwa'Sala-Nakwaxda'xw
+199,Gwawaenuk Tribe
+200,Gwichya Gwich'in
+201,Hagwilget Village
+202,Haisla Nation
+203,Halalt
+204,Halfway River First Nation
+205,Hall Beach
+206,Hartley Bay
+207,Hatchet Lake
+208,Heart Lake
+209,Heiltsuk
+210,Henvey Inlet First Nation
+211,Hesquiaht
+212,Hiawatha First Nation
+213,High Bar
+214,Hollow Water
+215,Holman
+216,Homalco
+217,Hopedale
+218,Horse Lake First Nation
+219,Hupacasath First Nation
+220,Huu-ay-aht First Nations
+221,Igloolik
+222,Indian Island
+223,Innu Takuaikan Uashat Mak Mani-Utenam
+224,Innue Essipit
+225,Inukjuak
+226,Inuvik
+227,Inuvik Native
+228,Iqaluit
+229,Iskatewizaagegan #39 Independent First Nation
+230,Iskut
+231,Island Lake First Nation
+232,Ivujivik
+233,James Smith
+234,Jean Marie River First Nation
+235,K'atlodeeche First Nation
+236,Ka'a'gee Tu First Nation
+237,Kahkewistahaw
+238,Kahnawake
+239,Kamloops
+240,Kanaka Bar
+241,Kangiqsualujjuaq
+242,Kangiqsujuaq
+243,Kangirsuk
+244,Kapawe'no First Nation
+245,Kasabonika Lake
+246,Kashechewan
+247,Katzie
+248,Kawacatoose
+249,Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations
+250,Kee-Way-Win
+251,Keeseekoose
+252,Keeseekoowenin
+253,Kehewin Cree Nation
+254,Kimmirut
+255,Kingfisher
+256,Kingsclear
+257,Kinistin Saulteaux Nation
+258,Kinonjeoshtegon First Nation
+259,Kispiox
+260,Kitasoo
+261,Kitchenuhmaykoosib Inninuwug
+262,Kitigan Zibi Anishinabeg
+263,Kitselas
+264,Kitsumkalum
+265,Klahoose First Nation
+266,Kluane First Nation
+267,Kluskus
+268,Konadaha Seneca
+269,Kugluktuk
+270,Kuujjuaq
+271,Kuujjuarapik
+272,Kwadacha
+273,Kwakiutl
+274,Kwanlin Dun First Nation
+275,Kwantlen First Nation
+276,Kwaw-kwaw-Apilt
+277,Kwiakah
+278,Kwicksutaineuk-ah-kwaw-ah-mish
+279,Kwikwetlem First Nation
+280,La Nation Innu Matimekush-Lac John
+281,La Nation Micmac de Gespeg
+282,Lac Des Mille Lacs
+283,Lac La Croix
+284,Lac La Ronge
+285,Lac Seul
+286,Lake Babine Nation
+287,Lake Cowichan First Nation
+288,Lake Manitoba
+289,Lake St. Martin
+290,Lax-kw'alaams
+291,Lennox Island
+292,Leq' a: mel First Nation
+293,Les Atikamekw de Manawan
+294,Les Innus de Ekuanitshit
+295,Lheidli T'enneh
+296,Lhtako Dene Nation
+297,Liard First Nation
+298,Liidlii Kue First Nation
+299,Listuguj Mi'gmaq Government
+300,Little Black Bear
+301,Little Black River
+302,Little Grand Rapids
+303,Little Pine
+304,Little Red River Cree Nation
+305,Little Salmon/Carmacks First Nation
+306,Little Saskatchewan
+307,Little Shuswap Lake
+308,Long Lake No.58 First Nation
+309,Long Plain
+310,Long Point First Nation
+311,Loon River Cree
+312,Louis Bull
+313,Lower Cayuga
+314,Lower Kootenay
+315,Lower Mohawk
+316,Lower Nicola
+317,Lower Similkameen
+318,Lubicon Lake
+319,Lucky Man
+320,Lutsel K'e Dene First Nation
+321,Lyackson
+322,Lytton
+323,M'Chigeeng First Nation
+324,Madawaska Maliseet First Nation
+325,Magnetawan
+326,Makkovik
+327,Makwa Sahgaiehcan First Nation
+328,Malahat First Nation
+329,Mamalilikulla-Qwe'Qwa'Sot'Em
+330,Manto Sipi Cree Nation
+331,Marcel Colomb First Nation
+332,Martin Falls
+333,Matachewan
+334,Mathias Colomb
+335,Matsqui
+336,Mattagami
+337,McDowell Lake
+338,McLeod Lake
+339,Membertou
+340,Metepenagiag Mi'kmaq Nation
+341,Metlakatla
+342,Miawpukek
+343,Michipicoten
+344,Micmacs of Gesgapegiag
+345,Mikisew Cree First Nation
+346,Millbrook
+347,Mishkeegogamang
+348,Missanabie Cree
+349,Mississauga
+350,Mississauga's of Scugog Island First Nation
+351,Mississaugas of the Credit
+352,Mistawasis
+353,Mohawks of Akwesasne
+354,Mohawks of Kanesatake
+355,Mohawks of the Bay of Quinte
+356,Montagnais de Natashquan
+357,Montagnais de Pakua Shipi
+358,Montagnais de Unamen Shipu
+359,Montagnais du Lac St.-Jean
+360,Montana
+361,Montreal Lake
+362,Moose Cree First Nation
+363,Moose Deer Point
+364,Moosomin
+365,Moravian of the Thames
+366,Moricetown
+367,Mosakahiken Cree Nation
+368,"Mosquito, Grizzly Bear's Head, Lean Man First Nati"
+369,Mount Currie
+370,Mowachaht/Muchalaht
+371,Munsee-Delaware Nation
+372,Muscowpetung
+373,Mushuau Innu First Nation
+374,Muskeg Lake
+375,Muskoday First Nation
+376,Muskowekwan
+377,Muskrat Dam Lake
+378,Musqueam
+379,N'Quatqua
+380,Nadleh Whuten
+381,Nahanni Butte
+382,Naicatchewenin
+383,Nain(Head office)
+384,Nak'azdli
+385,Namgis First Nation
+386,Nanoose First Nation
+387,Naotkamegwanning
+388,Naskapi Nation of Kawawachikamach
+389,Nation Anishnabe du Lac Simon
+390,Nation Huronne Wendat
+391,Nazko
+392,Nee-Tahi-Buhn
+393,Nekaneet
+394,Neskantaga First Nation
+395,Neskonlith
+396,New Westminster
+397,Nibinamik First Nation
+398,Nicickousemenecaning
+399,Nicomen
+400,Niharondasa Seneca
+401,Nipissing First Nation
+402,Nisga'a Village of Gingolx
+403,Nisga'a Village of Gitwinksihlkw
+404,Nisga'a Village of Laxgalt'sap
+405,Nisga'a Village of New Aiyansh
+406,Nisichawayasihk Cree Nation
+407,Nooaitch
+408,North Caribou Lake
+409,North Spirit Lake
+410,Northlands
+411,Northwest Angle No.33
+412,Northwest Angle No.37
+413,Norway House Cree Nation
+414,Nuchatlaht
+415,Nuxalk Nation
+416,O'Chiese
+417,O-Chi-Chak-Ko-Sipi First Nation
+418,Obashkaandagaang
+419,Ocean Man
+420,Ochapowace
+421,Ochiichagwe'babigo'ining First Nation
+422,Odanak
+423,Ojibway Nation of Saugeen
+424,Ojibways of Onigaming First Nation
+425,Ojibways of the Pic River First Nation
+426,Okanagan
+427,Okanese
+428,Old Massett Village Council
+429,One Arrow
+430,Oneida
+431,Oneida Nation of the Thames
+432,Onion Lake
+433,Onondaga Clear Sky
+434,Opaskwayak Cree Nation
+435,Oregon Jack Creek
+436,Oromocto
+437,Osoyoos
+438,Oweekeno/Wuikinuxv Nation
+439,Pabineau
+440,Pacheedaht First Nation
+441,Pangnirtung
+442,Paq'tnkek First Nation
+443,Pasqua First Nation #79
+444,Pauingassi First Nation
+445,Paul
+446,Paulatuk
+447,Pauquachin
+448,Pays Plat
+449,Peepeekisis
+450,Peguis
+451,Pehdzeh Ki First Nation
+452,Pelican Lake
+453,Pelly Bay changed to Kugaaruk
+454,Penelakut
+455,Penticton
+456,Peter Ballantyne Cree Nation
+457,Peters
+458,Pheasant Rump Nakota
+459,Piapot
+460,Pic Mobert
+461,Pictou Landing
+462,Piikani Nation
+463,Pikangikum
+464,Pinaymootang First Nation
+465,Pine Creek
+466,Pond Inlet
+467,Popkum
+468,Poplar Hill
+469,Poplar River First Nation
+470,Postville
+471,Poundmaker
+472,Première nation de Whapmagoostui
+473,Première Nation Malecite de Viger
+474,Prophet River First Nation
+475,Puvirnituq/Povungnituk
+476,Qikiqtarjuaq
+477,Qualicum First Nation
+478,Quaqtaq
+479,Quatsino
+480,Rainy River First Nations
+481,Rankin Inlet
+482,Red Earth
+483,Red Pheasant
+484,Red Rock
+485,Red Sucker Lake
+486,Repulse Bay office
+487,Resolute
+488,Rigolet
+489,Rolling River
+490,Roseau River Anishinabe First Nation Government
+491,Ross River
+492,Sachigo Lake
+493,Sachs Harbour
+494,Saddle Lake
+495,Sagamok Anishnawbek
+496,Saik'uz First Nation
+497,Saint Mary's
+498,Sakimay First Nations
+499,Salluit
+500,Salt River First Nation #195
+501,Samahquam
+502,Sambaa K'e (Trout Lake) Dene
+503,Samson
+504,Sandy Bay
+505,Sandy Lake
+506,Sanikiluaq
+507,Sapotaweyak Cree Nation
+508,Saugeen
+509,Saulteau First Nations
+510,Saulteaux
+511,Sawridge
+512,Sayisi Dene First Nation
+513,Scowlitz
+514,Seabird Island
+515,Sechelt
+516,Seine River First Nation
+517,Selkirk First Nation
+518,Semiahmoo
+519,Serpent River
+520,Seton Lake
+521,Shackan
+522,Shamattawa First Nation
+523,Shawanaga First Nation
+524,Sheguiandah
+525,Sheshatshiu Innu First Nation
+526,Sheshegwaning
+527,Shoal Lake Cree Nation
+528,Shoal Lake No.40
+529,Shubenacadie
+530,Shuswap
+531,Shxw'ow'hamel First Nation
+532,Shxwhá:y Village
+533,Siksika Nation
+534,Simpcw First Nation
+535,Sioux Valley Dakota Nation
+536,Siska
+537,Six Nations of the Grand River
+538,Skatin Nations
+539,Skawahlook First Nation
+540,Skeetchestn
+541,Skidegate
+542,Skin Tyee
+543,Skowkale
+544,Skownan First Nation
+545,Skuppah
+546,Skwah
+547,Slate Falls Nation
+548,Sliammon
+549,Smith's Landing First Nation
+550,Snuneymuxw First Nation
+551,Soda Creek
+552,Songhees First Nation
+553,Soowahlie
+554,Spallumcheen
+555,Spuzzum
+556,Squamish
+557,Squiala First Nation
+558,Standing Buffalo
+559,Stanjikoming First Nation
+560,Star Blanket
+561,Stellat'en First Nation
+562,Stone
+563,Sturgeon Lake Cree Nation
+564,Sturgeon Lake First Nation
+565,St. Mary's
+566,St. Theresa Point
+567,Sucker Creek
+568,Sumas First Nation
+569,Sunchild First Nation
+570,Swan Lake
+571,Swan River First Nation
+572,Sweetgrass
+573,T'it'q'et
+574,T'Sou-ke First Nation
+575,Ta'an Kwach'an
+576,Tahltan
+577,Takla Lake First Nation
+578,Taku River Tlingit
+579,Tallcree
+580,Taloyoak
+581,Tasiujaq
+582,Tataskweyak Cree Nation
+583,Taykwa Tagamou Nation
+584,Temagami First Nation
+585,Teslin Tlingit Council
+586,Tetlit Gwich'in
+587,The Crees of the Waskaganish First Nation
+588,The Key First Nation
+589,Thessalon
+590,Thunderchild First Nation
+591,Timiskaming First Nation
+592,Tl'azt'en Nation
+593,Tl'etinqox-t'in Government Office
+594,Tla-o-qui-aht First Nations
+595,Tlatlasikwala
+596,Tlowitsis Tribe
+597,Tobacco Plains
+598,Tobique
+599,Toosey
+600,Tootinaowaziibeeng Treaty Reserve
+601,Toquaht
+602,Tr'ondëk Hwëch'in
+603,Ts'kw'aylaxw First Nation
+604,Tsartlip
+605,Tsawataineuk
+606,Tsawout First Nation
+607,Tsawwassen First Nation
+608,Tsay Keh Dene
+609,Tseshaht
+610,Tseycum
+611,Tsleil-Waututh Nation
+612,Tsuu T'ina Nation
+613,Tuktoyaktuk
+614,Tulita Dene
+615,Tuscarora
+616,Tzeachten
+617,Uchucklesaht
+618,Ucluelet First Nation
+619,Ulkatcho
+620,Umiujaq
+621,Union Bar
+622,Upper Cayuga
+623,Upper Mohawk
+624,Upper Nicola
+625,Upper Similkameen
+626,Vuntut Gwitchin First Nation
+627,Wabaseemoong Independent Nations
+628,Wabauskang First Nation
+629,Wabigoon Lake Ojibway Nation
+630,Wagmatcook
+631,Wahgoshig
+632,Wahnapitae
+633,Wahpeton Dakota Nation
+634,Wahta Mohawk
+635,Walker Mohawk
+636,Walpole Island
+637,Wapekeka
+638,War Lake First Nation
+639,Wasagamack First Nation
+640,Wasauksing First Nation
+641,Waswanipi
+642,Waterhen Lake
+643,Wawakapewin
+644,Waycobah First Nation
+645,Waywayseecappo First Nation Treaty Four - 1874
+646,Webequie
+647,Weenusk
+648,Wesley
+649,West Moberly First Nations
+650,West Point First Nation
+651,Westbank First Nation
+652,Wet'suwet'en First Nation
+653,Wha Ti First Nation
+654,Whale Cove
+655,Whispering Pines/Clinton
+656,White Bear
+657,White River First Nation
+658,Whitecap Dakota First Nation
+659,Whitefish Lake
+660,Whitefish River
+661,Whitesand
+662,Wikwemikong
+663,Williams Lake
+664,Witchekan Lake
+665,Wolf Lake
+666,Wood Mountain
+667,Woodland Cree First Nation
+668,Woodstock
+669,Wunnumin
+670,Wuskwi Sipihk First Nation
+671,Xaxli'p
+672,Xeni Gwet'in First Nations Government
+673,Yakweakwioose
+674,Yale First Nation
+675,Yekooche
+676,Yellow Quill
+677,Yellowknives Dene First Nation
+678,York Factory First Nation
+679,Zhiibaahaasing First Nation
+680,Akisq'nuk First Nation
