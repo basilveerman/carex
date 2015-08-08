@@ -199,9 +199,46 @@ city_abcom_sources = [
     }
 ]
 
-def process_source(k, v):
+def process_line(agg_region, k, line):
+    # do some on the fly corrections
+    if agg_region == 'prov':
+        if line[k] == 'NL':
+            line[k] = 'NFLD'
+        elif line[k] == 'PE':
+            line[k] = 'PEI'
+        elif line[k] == 'NT':
+            line[k] = 'NWT'
+        elif line[k] == 'NU':
+            line[k] = 'NUN'
+        elif line[k] == 'QC':
+            line[k] = 'PQ'
+        elif line[k] == 'YT':
+            line[k] = 'YK'
+
+    # city corrections
+    if agg_region == 'city':
+        if line[k].decode('utf-8') == u'Montr?al':
+            line[k] = 'Montreal'
+        elif line[k].decode('utf-8') == u'Qu?bec':
+            line[k] = 'Quebec'
+        elif line[k].decode('utf-8') == u'Trois-Rivi?res':
+            line[k] = 'Trois-Rivieres'
+        elif line[k].decode('utf-8') == u'Jonqui?re':
+            line[k] = 'Jonquiere'
+        elif line[k].decode('utf-8') == u'MontrΘal':
+            line[k] = 'Montreal'
+        elif line[k].decode('utf-8') == u'QuΘbec':
+            line[k] = 'Quebec'
+        elif line[k].decode('utf-8') == u'Trois-RiviΦres':
+            line[k] = 'Trois-Rivieres'
+        elif line[k].decode('utf-8') == u'JonquiΦre':
+            line[k] = 'Jonquiere'
+
+    return line
+
+def process_source(agg_region, v):
     infile = os.path.join(args.indir, v['infile'])
-    outfile = os.path.join(args.outdir, k, v['outfile'] + '.csv')
+    outfile = os.path.join(args.outdir, agg_region, v['outfile'] + '.csv')
     print infile
     with open(infile, 'rb') as f_in:
         reader = csv.DictReader(f_in)
@@ -210,39 +247,8 @@ def process_source(k, v):
             writer.writerow(v['header'])
             col = v['agg_column']
             for line in reader:
-                if k == 'prov':
-                    if line[col] == 'NL':
-                        line[col] = 'NFLD'
-                    elif line[col] == 'PE':
-                        line[col] = 'PEI'
-                    elif line[col] == 'NT':
-                        line[col] = 'NWT'
-                    elif line[col] == 'NU':
-                        line[col] = 'NUN'
-                    elif line[col] == 'QC':
-                        line[col] = 'PQ'
-                    elif line[col] == 'YT':
-                        line[col] = 'YK'
-
-                if k == 'city':
-                    if line[col].decode('utf-8') == u'Montr?al':
-                        line[col] = 'Montreal'
-                    elif line[col].decode('utf-8') == u'Qu?bec':
-                        line[col] = 'Quebec'
-                    elif line[col].decode('utf-8') == u'Trois-Rivi?res':
-                        line[col] = 'Trois-Rivieres'
-                    elif line[col].decode('utf-8') == u'Jonqui?re':
-                        line[col] = 'Jonquiere'
-                    elif line[col].decode('utf-8') == u'MontrΘal':
-                        line[col] = 'Montreal'
-                    elif line[col].decode('utf-8') == u'QuΘbec':
-                        line[col] = 'Quebec'
-                    elif line[col].decode('utf-8') == u'Trois-RiviΦres':
-                        line[col] = 'Trois-Rivieres'
-                    elif line[col].decode('utf-8') == u'JonquiΦre':
-                        line[col] = 'Jonquiere'
+                line = process_line(agg_region, col, line)
                 
-                # print line
                 outline = [line[x] if x!='UniqueID' else '' for x in ['UniqueID', v['agg_column']] + fields] 
                 writer.writerow(outline)
 
@@ -262,41 +268,7 @@ def process_multiple_trim_duplicates(prefs):
             for agg_region in prefs['agg_region']:
                 k = agg_col[agg_region]
                 if line[k]:
-
-                    # do some on the fly corrections
-                    if agg_region == 'prov':
-                        if line[k] == 'NL':
-                            line[k] = 'NFLD'
-                        elif line[k] == 'PE':
-                            line[k] = 'PEI'
-                        elif line[k] == 'NT':
-                            line[k] = 'NWT'
-                        elif line[k] == 'NU':
-                            line[k] = 'NUN'
-                        elif line[k] == 'QC':
-                            line[k] = 'PQ'
-                        elif line[k] == 'YT':
-                            line[k] = 'YK'
-
-                    # city corrections
-                    if agg_region == 'city':
-                        if line[k].decode('utf-8') == u'Montr?al':
-                            line[k] = 'Montreal'
-                        elif line[k].decode('utf-8') == u'Qu?bec':
-                            line[k] = 'Quebec'
-                        elif line[k].decode('utf-8') == u'Trois-Rivi?res':
-                            line[k] = 'Trois-Rivieres'
-                        elif line[k].decode('utf-8') == u'Jonqui?re':
-                            line[k] = 'Jonquiere'
-                        elif line[k].decode('utf-8') == u'MontrΘal':
-                            line[k] = 'Montreal'
-                        elif line[k].decode('utf-8') == u'QuΘbec':
-                            line[k] = 'Quebec'
-                        elif line[k].decode('utf-8') == u'Trois-RiviΦres':
-                            line[k] = 'Trois-Rivieres'
-                        elif line[k].decode('utf-8') == u'JonquiΦre':
-                            line[k] = 'Jonquiere'
-
+                    line = process_line(agg_region, k, line)
                     outputline = tuple([line.get(x, '') for x in header[agg_region]])
                     aggregated_data_dict[agg_region].add(outputline)
     print ' -- DONE PROCESSING FILE'
@@ -327,41 +299,7 @@ def process_multiple(prefs):
             for agg_region in prefs['agg_region']:
                 k = agg_col[agg_region]
                 if line[k]:
-
-                    # do some on the fly corrections
-                    if agg_region == 'prov':
-                        if line[k] == 'NL':
-                            line[k] = 'NFLD'
-                        elif line[k] == 'PE':
-                            line[k] = 'PEI'
-                        elif line[k] == 'NT':
-                            line[k] = 'NWT'
-                        elif line[k] == 'NU':
-                            line[k] = 'NUN'
-                        elif line[k] == 'QC':
-                            line[k] = 'PQ'
-                        elif line[k] == 'YT':
-                            line[k] = 'YK'
-
-                    # city corrections
-                    if agg_region == 'city':
-                        if line[k].decode('utf-8') == u'Montr?al':
-                            line[k] = 'Montreal'
-                        elif line[k].decode('utf-8') == u'Qu?bec':
-                            line[k] = 'Quebec'
-                        elif line[k].decode('utf-8') == u'Trois-Rivi?res':
-                            line[k] = 'Trois-Rivieres'
-                        elif line[k].decode('utf-8') == u'Jonqui?re':
-                            line[k] = 'Jonquiere'
-                        elif line[k].decode('utf-8') == u'MontrΘal':
-                            line[k] = 'Montreal'
-                        elif line[k].decode('utf-8') == u'QuΘbec':
-                            line[k] = 'Quebec'
-                        elif line[k].decode('utf-8') == u'Trois-RiviΦres':
-                            line[k] = 'Trois-Rivieres'
-                        elif line[k].decode('utf-8') == u'JonquiΦre':
-                            line[k] = 'Jonquiere'
-
+                    line = process_line(agg_region, k, line)
                     outputline = [line.get(x, '') for x in header[agg_region]]
                     aggregated_data_dict[agg_region].append(outputline)
     print ' -- DONE PROCESSING FILE'
