@@ -13,8 +13,8 @@ from collections import defaultdict
 from resources import ensureDir
 
 parser = argparse.ArgumentParser(description='Split aggregation units')
-parser.add_argument('indir', help='Input directory')
-parser.add_argument('outdir', help='Output directory')
+parser.add_argument('-i', '--indir', default='/home/bveerman/Personal/CAREX/emp2012/data_prep/csv', help='Input directory')
+parser.add_argument('-o', '--outdir', default='/home/bveerman/Personal/CAREX/emp2012/GE/htmlGen', help='Output directory')
 args = parser.parse_args()
 
 args.indir = os.path.abspath(args.indir)
