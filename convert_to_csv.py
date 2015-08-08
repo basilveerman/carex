@@ -7,8 +7,10 @@ import argparse
 from xlsx2csv import xlsx2csv
 
 parser = argparse.ArgumentParser(description='Process some excel files to csv.')
-parser.add_argument('indir', help='Input directory')
-parser.add_argument('outdir', help='Output directory')
+parser.add_argument('indir', default='/home/bveerman/Personal/CAREX/emp2012/data_prep/excel_source',
+                    help='Input directory')
+parser.add_argument('outdir', default='/home/bveerman/Personal/CAREX/emp2012/data_prep/csv',
+                    help='Output directory')
 args = parser.parse_args()
 
 if not os.path.exists(args.outdir): raise Exception
